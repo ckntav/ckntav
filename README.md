@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![website](https://img.shields.io/badge/website-ckntav.github.io-green)](https://ckntav.github.io/)  
+[![website](https://img.shields.io/badge/website-ckntav.github.io-228B22)](https://ckntav.github.io/)
 
 I'm **Chris**, a computational biologist passionate about data analysis and visualization. I completed a PhD in Bioinformatics at *Université Laval* 🎓 (Canada), where I studied transcriptomic regulation 🧬 in the context of 3D genome organization.
 
