@@ -2,9 +2,9 @@
 
 [![website](https://img.shields.io/badge/website-ckntav.github.io-green)](https://ckntav.github.io/)  
 
-I'm **Chris**, a computational biologist passionate about data analysis and visualization. I completed a PhD in Bioinformatics at *Université Laval* 🎓, where I studied transcriptomic regulation 🧬 in the context of 3D genome organization.
+I'm **Chris**, a computational biologist passionate about data analysis and visualization. I completed a PhD in Bioinformatics at *Université Laval* 🎓 (Canada), where I studied transcriptomic regulation 🧬 in the context of 3D genome organization.
 
-I specialize in integrating various omics data, including high-throughput sequencing datasets such as ChIP-seq, RNA-seq, and Hi-C, to explore the role of chromatin structure in gene regulation. My work aims to uncover the intricate mechanisms by which chromatin architecture influences gene expression, particularly in response to external stimuli.
+I specialize in integrating various **omics** data, including high-throughput sequencing datasets such as ChIP-seq, RNA-seq, and Hi-C, to explore the role of chromatin structure in gene regulation. My work aims to uncover the intricate mechanisms by which chromatin architecture influences gene expression, particularly in response to external stimuli.
 
 My doctoral research has provided me with a strong foundation in computational biology, genomics, and bioinformatics, along with hands-on experience in sequencing data analysis, scientific research, and innovative problem-solving.
 
