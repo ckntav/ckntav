@@ -15,10 +15,10 @@ My doctoral research has provided me with a strong foundation in computational b
 - Bioinformatics 🧬
 - Running 🏃‍♂️
 
-🌐 **more about me**  
-- website: [ckntav.github.io](https://ckntav.github.io/)  
-- publications: [google scholar](https://scholar.google.com/citations?user=6Dr-pgwAAAAJ)
-- orcid: [0000-0001-8808-9617](https://orcid.org/0000-0001-8808-9617)  
+🌐 **more about my work**  
+- website: [ckntav.github.io](https://ckntav.github.io/) 🌍  
+- publications: [google scholar](https://scholar.google.com/citations?user=6Dr-pgwAAAAJ) 📚
+- orcid: [0000-0001-8808-9617](https://orcid.org/0000-0001-8808-9617) 🆔
 
 📬 **contact**  
 - Email: christophe.tav [at] gmail.com
