@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there 👋
 
 [![website](https://img.shields.io/badge/website-ckntav.github.io-228B22)](https://ckntav.github.io/)
 
@@ -8,19 +8,19 @@ I specialize in integrating various **omics** data, including high-throughput se
 
 My doctoral research has provided me with a strong foundation in computational biology, genomics, and bioinformatics, along with hands-on experience in sequencing data analysis, scientific research, and innovative problem-solving.
 
-📊 **Interests**
+📊 **interests**
 - Developing R packages 📦 
 - Web development (in progress) 💻
 - Data visualization 📈
 - Bioinformatics 🧬
 - Running 🏃‍♂️
 
-🌐 **More about me**  
-- Website: [ckntav.github.io](https://ckntav.github.io/)  
-- Publications: [Google Scholar](https://scholar.google.com/citations?user=6Dr-pgwAAAAJ)
-- ORCID: [0000-0001-8808-9617](https://orcid.org/0000-0001-8808-9617)  
+🌐 **more about me**  
+- website: [ckntav.github.io](https://ckntav.github.io/)  
+- publications: [google scholar](https://scholar.google.com/citations?user=6Dr-pgwAAAAJ)
+- orcid: [0000-0001-8808-9617](https://orcid.org/0000-0001-8808-9617)  
 
-📬 **Contact**  
+📬 **contact**  
 - Email: christophe.tav [at] gmail.com
 
 <!--
