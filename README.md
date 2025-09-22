@@ -21,7 +21,7 @@ My doctoral research has provided me with a strong foundation in computational b
 - orcid: [0000-0001-8808-9617](https://orcid.org/0000-0001-8808-9617) 🆔
 
 📬 **contact**  
-- Email: christophe.tav [at] gmail.com
+- Email: christophe.tav [at] gmail.com 📧
 
 <!--
 **ckntav/ckntav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
