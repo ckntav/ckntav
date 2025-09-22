@@ -8,10 +8,12 @@ I specialize in integrating various **omics** data, including high-throughput se
 
 My doctoral research has provided me with a strong foundation in computational biology, genomics, and bioinformatics, along with hands-on experience in sequencing data analysis, scientific research, and innovative problem-solving.
 
-📊 **Interests** 
-- Developing R packages 📦  
-- Web development (in progress) 💻  
-- Running 🏃‍♂️  
+📊 **Interests**
+- Developing R packages 📦 
+- Web development (in progress) 💻
+- Data visualization 📈
+- Bioinformatics 🧬
+- Running 🏃‍♂️
 
 🌐 **More about me**  
 - Website: [ckntav.github.io](https://ckntav.github.io/)  
